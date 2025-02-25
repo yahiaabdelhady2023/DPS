@@ -1,0 +1,13 @@
+ <!-- <td>{{row.DoB}}</td>
+                    <td>{{row.Age}}</td>	
+                    <td>{{row.Gender}}</td>	
+                    <td>{{row.Dept}}</td>	
+                    <td>{{row.UnitFromTime}}</td>	
+                    <td>{{row.UnitToTime}}</td>
+                    <td>{{row.eCaMISDischargeDate}}</td>	
+                    <td>{{row.Abbreviation}}</td>	
+                    <td>{{row.ObsValue}}</td>	
+                    <td>{{row.MarkedInError}}</td>	
+                    <td>{{row.UnitName}}</td>	
+                    <td>{{row.ObsTime}}</td>	
+                    <td>{{row.ObsValidationTime}}</td> -->

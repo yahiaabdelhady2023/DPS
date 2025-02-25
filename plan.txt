@@ -1,0 +1,17 @@
+Conventions
+HTML,CSS,Javascript file names are uppercase first letter and rest is lowercase ,if there is a new word first letter is 
+uppercase and rest is lowercase
+
+e.g. Login.html , Register.html, ManageAccounts.html
+
+HTML naming Conventions
+
+Class: Uppercase then lowercase first e.g. HelloWorld 
+ID: START WITH ID , Uppercase then lowercase e.g. ID_Uploader
+
+name == for == id ,  if all are used format would be Username_Login
+
+for CSS
+Design+word
+DesignHomePage
+DesignForms
